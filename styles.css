@@ -8,7 +8,7 @@
 html,
 body {
   font-family: "Inter", sans-serif;
-  font-size: 14px;
+  font-size: 30px;
   font-style: normal;
   line-height: normal;
 }
@@ -127,3 +127,4 @@ button {
   height: 100%;
   object-fit: cover;
 }
+
